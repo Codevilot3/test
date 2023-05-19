@@ -1,0 +1,37 @@
+.home-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.home-container h2 {
+  margin-bottom: 10px;
+}
+
+.home-container table {
+  width: 100%;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+}
+
+.home-container th,
+.home-container td {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.home-container button {
+  padding: 8px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.home-container button:hover {
+  background-color: #45a049;
+}
